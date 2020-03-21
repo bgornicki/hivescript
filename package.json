@@ -1,8 +1,8 @@
 {
-  "name": "steemscript",
-  "version": "1.1.1",
+  "name": "hivescript",
+  "version": "1.2.1",
   "repository": {
-    "url": "git://github.com/bonustrackco/steemscript.git",
+    "url": "git://github.com/bgornicki/hivescript.git",
     "type": "git"
   },
   "license": "MIT"

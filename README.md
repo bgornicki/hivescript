@@ -1,6 +1,6 @@
-# steemscript
+# hivescript
 
-An open JSON standard for Steem based apps.
+An open JSON standard for Hive based apps.
 
 ### Account json_metadata
 

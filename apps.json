@@ -1,4 +1,9 @@
 {
+  "hiveblog": {
+    "name": "Hive Blog",
+    "homepage": "https://hive.blog",
+    "url_scheme": "https://hive.blog/{category}/@{username}/{permlink}"
+  },
   "steemit": {
     "name": "Steemit",
     "homepage": "https://steemit.com",
